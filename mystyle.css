@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(202, 202, 230);
+}
+
+h1{
+    color:rgb(230, 110, 11);
+    margin-left: 50px;
+}
+
+h2{
+    color:yellow;
+}
+
+.iroMan {
+    color: red;
+}
+
+#huLk{
+    color:brown;
+    font-weight: normal;
+    
+}
